@@ -1,6 +1,7 @@
 # Wikipedia_Data_Analysis
 ## This repository contains my day-to-day practice on wikipedia module in Python:
+### Day1:
 - Importing the library.
-- Searching over a topic - Climate
+- Searching over a topic - Climate change
 - Using NLP to find some insights on it
-- If i could somehow use Neo4j to extract graphical relation on the topic selected.
+- Visualize the result in Neo4j to extract graphical relation on the topic selected.
