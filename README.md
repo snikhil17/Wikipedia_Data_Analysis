@@ -6,4 +6,4 @@
 - Using NLP to find some insights on it
 - Visualize the result in Neo4j to extract graphical relation on the topic selected.
 
-## To see the progress of graphh please download graph-1.svg and open the file in any browser
+## To see the progress of graph, please download graph-1.svg and open the file in any browser
