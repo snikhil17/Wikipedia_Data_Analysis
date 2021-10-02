@@ -1,6 +1,6 @@
 # Wikipedia_Data_Analysis
-## This repository contains my day-to-day practice on wikipedia module in Python:
-### Day1:
+## This repository contains my regular practice on wikipedia module in Python:
+
 - Importing the library.
 - Searching over a topic - Climate change
 - Using NLP to find some insights on it
